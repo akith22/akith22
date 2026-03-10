@@ -1,32 +1,58 @@
-# Hi, I'm Akith 👋
+<div align="center">
 
-Computer Science undergraduate at SLIIT, passionate about building scalable backend services and full-stack web applications. I enjoy turning complex problems into clean, reliable software.
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Akith%20De%20Silva&fontSize=68&fontColor=ffffff&fontAlignY=40&desc=Backend%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=20&animation=fadeIn&stroke=A78BFA&strokeWidth=2" width="100%"/>
 
-- 🎓 BSc (Hons) in Computer Science @ SLIIT — GPA: 3.31 / 4.00
-- 🌱 Currently deepening my skills in Spring Boot & React
-- 🔍 Open to Software Engineering internship opportunities
-- 📍 Based in Sri Lanka
+<br/>
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=750&lines=Java+%2B+Spring+Boot+Backend+Engineer;React+%2B+TypeScript+Frontend+Dev;REST+APIs+%7C+JWT+%7C+Spring+Security;Building+production-ready+systems;Open+to+Software+Engineering+Internships)](https://git.io/typing-svg)
 
-## 🛠 Tech Stack
+<br/>
 
-**Languages**
-Java · TypeScript · JavaScript · Python · C
+Computer Science undergraduate at **SLIIT**, passionate about building scalable backend systems and full-stack web applications. Crafting systems with **clean architecture, secure APIs, and efficient backend logic.**
 
-**Backend**
-Spring Boot · Spring Security · REST APIs · JWT
+<br/>
 
-**Frontend**
-React · HTML · CSS
+**Backend Engineering** · Java & Spring Boot &nbsp;&nbsp;|&nbsp;&nbsp; **Full-Stack Development** · React & TypeScript &nbsp;&nbsp;|&nbsp;&nbsp; **API & Auth** · REST APIs & JWT
 
-**Databases & Tools**
-MySQL · Firebase · Git · Maven
+</div>
 
 ---
 
-## 📬 Get in Touch
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/akith-de-silva)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:akithdesilva626@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](#)
+### Tech Stack
+
+<img src="https://skillicons.dev/icons?i=java,typescript,javascript,c,spring,react,mysql,git,html,css,vite,postman&perline=6&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+### GitHub Stats
+
+<img src="https://streak-stats.demolab.com?user=akith22&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=ff6ec7&currStreakLabel=A78BFA" width="55%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akith22&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ff6ec7&area=true&hide_border=true&area_color=20123a" width="98%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akith-de-silva)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akithdesilva626@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akith22)
+
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=akith22&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&animation=fadeIn" width="100%"/>
