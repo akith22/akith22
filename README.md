@@ -8,13 +8,13 @@
 
 <br/>
 
+</div>
+
 Computer Science undergraduate at **SLIIT**, passionate about building scalable backend systems and full-stack web applications. Crafting systems with **clean architecture, secure APIs, and efficient backend logic.**
 
-<br/>
-
-**Backend Engineering** · Java & Spring Boot &nbsp;&nbsp;|&nbsp;&nbsp; **Full-Stack Development** · React & TypeScript &nbsp;&nbsp;|&nbsp;&nbsp; **API & Auth** · REST APIs & JWT
-
-</div>
+- Backend Engineering · **Java & Spring Boot**
+- Full-Stack Development · **React & TypeScript**
+- API & Auth · **REST APIs & JWT**
 
 ---
 
