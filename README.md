@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Akith%20De%20Silva&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Web%20Developer&descAlignY=55&descSize=20&animation=fadeIn&stroke=A78BFA&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Akith%20De%20Silva&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Web%20Developer&descAlignY=55&descSize=20&animation=fadeIn&stroke=A78BFA&strokeWidth=2" width="100%" alt="header"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=750&lines=Java+%2B+Spring+Boot+Backend+Engineer;React+%2B+TypeScript+Frontend+Dev;Building+production-ready+systems;REST+APIs+%7C+JWT+%7C+Spring+Security;Open+to+Software+Engineering+Internships)](https://git.io/typing-svg)
 
@@ -10,42 +10,55 @@
 
 ---
 
-### About Me
+## 👋 About Me
 
-- **Engineering Focus:** Building scalable backend systems and dynamic full-stack web applications.
-- **Backend:** Deep dive into **Java, Spring Boot, REST APIs, and JWT** for secure and efficient logic.
-- **Frontend:** Creating seamless user experiences using **React & TypeScript**.
-- **Currently:** Actively seeking **Software Engineering Internships** to contribute to real-world, production-ready systems.
-
----
-
-### Tech Arsenal
-
-<div align="center">
-
-| Backend & Database | Frontend Development | Tools & Architecture |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=java,spring,c,mysql&perline=4&theme=dark" /> | <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,vite&perline=6&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,postman&perline=2&theme=dark" /> |
-
-</div>
+- 🏗️ **Engineering Focus:** Building scalable backend systems and dynamic full-stack web applications
+- ⚙️ **Backend:** Deep expertise in **Java, Spring Boot, REST APIs, and JWT** for secure and efficient logic
+- 🎨 **Frontend:** Creating seamless user experiences using **React & TypeScript**
+- 🔍 **Currently:** Actively seeking **Software Engineering Internships** to contribute to real-world, production-ready systems
 
 ---
 
-### GitHub Analytics
+## 🛠️ Tech Stack
+
+**Backend & Database**
+
+![Java](https://skillicons.dev/icons?i=java&theme=dark)
+![Spring Boot](https://skillicons.dev/icons?i=spring&theme=dark)
+![C](https://skillicons.dev/icons?i=c&theme=dark)
+![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)
+
+**Frontend Development**
+
+![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)
+![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)
+![React](https://skillicons.dev/icons?i=react&theme=dark)
+![HTML](https://skillicons.dev/icons?i=html&theme=dark)
+![CSS](https://skillicons.dev/icons?i=css&theme=dark)
+![Vite](https://skillicons.dev/icons?i=vite&theme=dark)
+
+**Tools & Architecture**
+
+![Git](https://skillicons.dev/icons?i=git&theme=dark)
+![Postman](https://skillicons.dev/icons?i=postman&theme=dark)
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=akith22&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=ff6ec7&currStreakLabel=A78BFA" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=akith22&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=ff6ec7&currStreakLabel=A78BFA" width="60%" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akith22&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ff6ec7&area=true&hide_border=true&area_color=20123a" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akith22&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ff6ec7&area=true&hide_border=true&area_color=20123a" width="100%" alt="GitHub Activity Graph"/>
 
 </div>
 
 ---
 
-### Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -60,4 +73,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&animation=fadeIn" width="100%" alt="footer"/>
